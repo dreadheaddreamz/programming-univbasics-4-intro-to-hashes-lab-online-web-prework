@@ -26,4 +26,6 @@ end
 
 def update_counting_hash(hash, key)
 if hash.keys.includes?(key)
+  hash += 1 
+  
 end
