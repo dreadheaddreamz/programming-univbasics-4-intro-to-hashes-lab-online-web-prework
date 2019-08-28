@@ -29,5 +29,6 @@ if hash.keys.includes?(key)
   hash += 1 
   hash
 else
-  
+  hash[key] = 1 
+  hash
 end
