@@ -3,7 +3,9 @@ def new_hash
 end
 
 def my_hash
- {
+ my_hash = {
+   Itme: Xbox
+ }
 end
 
 def pioneer
