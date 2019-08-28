@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- {sticks: 5, Stones:6}
+ {five: 5, six:6}
 end
 
 def pioneer
