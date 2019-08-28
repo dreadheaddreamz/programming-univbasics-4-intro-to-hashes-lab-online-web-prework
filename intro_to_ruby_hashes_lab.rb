@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-{Grace Hopper:}
+{Name: 'Grace Hopper'}
 end
 
 def id_generator
